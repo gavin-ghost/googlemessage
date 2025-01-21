@@ -1,8 +1,8 @@
-业务1: 出售逆向 `Google Message` App 服务。
+1: 逆向 `Google Message` App 服务。
 
 ----
 
-业务2: 出售 `Google Message` 网页接口协议，即 RCS 协议。全套，包含收发 RCS 消息，文字、图片、语音、视频。
+2: `Google Message` 网页接口协议，即 RCS 协议。全套，包含收发 RCS 消息，文字、图片、语音、视频。
 
 本协议最适合做 RCS 自动回复机器人。
 
